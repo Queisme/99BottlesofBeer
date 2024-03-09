@@ -3,7 +3,7 @@
 // Take one down, pass it around 
 // 98 bottles of beer on the wall
 
-let count = 5;
+let count = 99;
 let bobs = 'bottles of beer';
 let onw = 'on the wall';
 let tod = 'Take one down,'
